@@ -15,10 +15,10 @@ export default function AboutScreen() {
       </Text>
 
       <Text style={styles.label}>Developed by:</Text>
-      <Text style={styles.text}>Prince Abeiku Quainoo</Text>
+      <Text style={styles.text}>Amoah Seth Kofi Agyare</Text>
 
       <Text style={styles.label}>Student ID:</Text>
-      <Text style={styles.text}>22046275</Text>
+      <Text style={styles.text}>22039390</Text>
     </View>
   );
 }
